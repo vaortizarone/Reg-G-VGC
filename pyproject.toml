@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "reg-g"
+version = "0.1.0"
+description = ""
+authors = ["alejandro <121509311+vaortizarone@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+pandas = "^2.2.2"
+pokepastes-scraper = "^0.2.2"
+selenium = "^4.20.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
