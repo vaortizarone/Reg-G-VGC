@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6fd5d27-d713-42e3-9e81-a5dd73e219fd" name="Changes" comment="EXTRACCION ADD">
-      <change afterPath="$PROJECT_DIR$/.idea/REG-G.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXTRACCION/scrap-noofi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fact_run_ofi.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/round_list_ofi.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/team_list_ofi.csv" beforeDir="false" />
+    <list default="true" id="e6fd5d27-d713-42e3-9e81-a5dd73e219fd" name="Changes" comment="NOOFI PAIRINGS UPDATE">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715045320290</updated>
       <workItem from="1715045321694" duration="7823000" />
-      <workItem from="1715091890022" duration="3046000" />
+      <workItem from="1715091890022" duration="3860000" />
     </task>
     <task id="LOCAL-00001" summary="EXTRACCION ADD">
       <option name="closed" value="true" />
@@ -94,7 +83,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715050660773</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="NOOFI PAIRINGS ADD">
+      <option name="closed" value="true" />
+      <created>1715095213676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715095213676</updated>
+    </task>
+    <task id="LOCAL-00003" summary="NOOFI PAIRINGS UPDATE">
+      <option name="closed" value="true" />
+      <created>1715095280652</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715095280652</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +107,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="EXTRACCION ADD" />
-    <option name="LAST_COMMIT_MESSAGE" value="EXTRACCION ADD" />
+    <MESSAGE value="NOOFI PAIRINGS ADD" />
+    <MESSAGE value="NOOFI PAIRINGS UPDATE" />
+    <option name="LAST_COMMIT_MESSAGE" value="NOOFI PAIRINGS UPDATE" />
   </component>
 </project>
